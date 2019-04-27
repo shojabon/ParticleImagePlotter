@@ -1,0 +1,5 @@
+name: ParticleImagePlotter
+version: ${project.version}
+main: com.shojabon.particleimageplotter.ParticleImagePlotter
+commands:
+ draw:

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ParticleImagePlotter:jar">
+    <output-path>$PROJECT_DIR$/../../minecraft server/plugins</output-path>
+    <root id="archive" name="ParticleImagePlotter.jar">
+      <element id="module-output" name="ParticleImagePlotter" />
+    </root>
+  </artifact>
+</component>
